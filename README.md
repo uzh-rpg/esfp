@@ -1,2 +1,1 @@
-# esfp
-ESfP: Event-based Shape from Polarization (CVPR 2023) 
+# ESFP: Event-based Shape from Polarization
