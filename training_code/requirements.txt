@@ -1,0 +1,8 @@
+torchvision
+torch
+opencv-contrib-python
+tensorboardX
+tqdm
+imageio
+h5py
+scikit-image
