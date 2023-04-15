@@ -1,4 +1,8 @@
 # ESFP: Event-based Shape from Polarization
+
+### Video (click on the image)
+[![Event-based Shape from Polarization](images/CVPR23_Muglikar_yt.png)](https://youtu.be/sF3Ue2Zkpec)
+
 ## Citation
 This is the code for the 2023 CVPR paper Event-based Shape from Polarization by Manasi Muglikar, Leonard Bauersfeld, Diederik Moeys and Davide Scaramuzza.
 
@@ -12,8 +16,7 @@ A pdf of the paper is available [here](https://rpg.ifi.uzh.ch/docs/CVPR23_Muglik
   year = {2023}
 }
 ```
-### Video (click on the image)
-[![Event-based Shape from Polarization](images/CVPR23_Muglikar_yt.png)](https://youtu.be/sF3Ue2Zkpec)
+
 ## Installation
 
 Install metavision from [here](https://docs.prophesee.ai/3.1.2/installation/index.html)
